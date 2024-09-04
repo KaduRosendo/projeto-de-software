@@ -19,13 +19,13 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: Escola Infinito
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: S7ven
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+Nesse projeto iremos realizar um sistemas para controlar a presença dos alunos da primeira série à quinta série e uma escola
 
 # Documentação
 
