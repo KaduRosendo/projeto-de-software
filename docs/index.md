@@ -45,6 +45,10 @@
 
 -Função2: Confirmar o envio das faltas para o sistema
 
+-Função3: Relatório de faltas no sistema
+
+-Função4: Cada aluno possuir um sistema para verificar notas e faltas 
+
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
