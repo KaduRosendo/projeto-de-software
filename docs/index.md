@@ -41,17 +41,17 @@
 # Análise de Requisitos Funcionais e Não-Funcionais
 ## Funcionais:
 
--Função1: Selecionar aluno que faltou;
+- Selecionar aluno que faltou;
 
--Função2: Confirmar o envio das faltas para o sistema
+- Confirmar o envio das faltas para o sistema
 
--Função3: Relatório de faltas no sistema
+- Relatório de faltas no sistema
 
--Função4: Cada aluno possuir um sistema para verificar notas e faltas 
+- Cada aluno possuir um sistema para verificar notas e faltas 
 
--Função5: Enviar notificações aos responsavels se ultrapassar o limite de faltas
+- Enviar notificações aos responsavels se ultrapassar o limite de faltas
 
--Função6: Funcionalidades de acessibilidade
+- Funcionalidades de acessibilidade
 
 ## Não-Funcionais:
 
