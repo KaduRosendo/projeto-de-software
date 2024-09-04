@@ -39,7 +39,10 @@
 *&lt;Introdução do projeto&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+◦ Funcionais:
+
+-Função1: Selecionar aluno que faltou;
+-Função2: Confirmar o envio das faltas para o sistema
 
 # Diagrama de Atividades
 
