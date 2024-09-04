@@ -53,6 +53,22 @@
 
 -Função6: Funcionalidades de acessibilidade
 
+## Não-Funcionais:
+
+Requisitos não funcionais 
+
+- O sistemas deve ser capaz de processar um alto núnero de presenças por segundo 
+
+- Todos os dados dos alunos e professores devem ser criptografados para maior sefurança 
+
+- O sistemas deve ter um baixo tempo de respostas para as solicitações inferios a 1 segundo 
+
+- O sistemas deve estar sempre disponivel para uso minimizando o tempo de inatividade e garantindo acesso continuo 
+
+- O sistemas deve realizar backups automático dos dados 24 horas e garantir que seja possível a recuperação completa dos dados em caso de falha 
+
+- O sistemas deve estar em comformidade com regulamentações de proteção de dados e privacidade aplicáveis, como LGPD
+
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
