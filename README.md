@@ -1,12 +1,12 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *Escola do Infinito*
 
-# Grupo: *s7ven*
+# Grupo: *Seven*
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+*Nessse projeto iremos realizar um sistema para controlar a presença dos alunos da primeira série à quinta série de uma escola*
 
 # Documentação
 
