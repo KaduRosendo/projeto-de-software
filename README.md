@@ -2,7 +2,7 @@
 
 # Projeto: *<Nome_do_seu_Projeto>*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *<s7ven>*
 
 # Descrição
 
