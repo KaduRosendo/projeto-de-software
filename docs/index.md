@@ -49,6 +49,10 @@
 
 -Função4: Cada aluno possuir um sistema para verificar notas e faltas 
 
+-Função5: Enviar notificações aos responsavels se ultrapassar o limite de faltas
+
+-Função6: Funcionalidades de acessibilidade
+
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
