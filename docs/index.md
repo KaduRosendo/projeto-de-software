@@ -42,6 +42,7 @@
 ## Funcionais:
 
 -Função1: Selecionar aluno que faltou;
+
 -Função2: Confirmar o envio das faltas para o sistema
 
 # Diagrama de Atividades
