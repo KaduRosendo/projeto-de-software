@@ -71,7 +71,7 @@ Requisitos não funcionais
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![EscolaInfinita (1)](https://github.com/user-attachments/assets/34ed9ef3-07ef-4ac3-87ad-4fada141c28b)
 
 # Diagrama de Casos de Uso
 
