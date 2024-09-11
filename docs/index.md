@@ -36,7 +36,7 @@
 
 # Descrição do Projeto
 
-*&lt;A escola do infinito necessita de um sistema que monitore a presença dos alunos e informe os pais quando o aluno estiver perto de reprovar por ausência&gt;*
+*A escola do infinito necessita de um sistema que monitore a presença dos alunos e informe os pais quando o aluno estiver perto de reprovar por ausência*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 ## Funcionais:
