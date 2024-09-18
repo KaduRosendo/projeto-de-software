@@ -79,7 +79,7 @@ Requisitos não funcionais
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Diagrama sem nome drawio(1)](https://github.com/user-attachments/assets/2f8e3ab5-c713-425d-bac5-85239b9d0fa0)
 
 # Descrição dos Casos de Uso
 
