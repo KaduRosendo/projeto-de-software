@@ -36,7 +36,11 @@
 
 # Descrição do Projeto
 
-*A escola do infinito necessita de um sistema que monitore a presença dos alunos e informe os pais quando o aluno estiver perto de reprovar por ausência*
+*O intuito do projeto é, principalmente, desenvolver um sistema integrado de faltas para a escola do infinito, visando facilitar o acompanhamento de alunos e professores nesse sistema. É importante facilitar o acesso de outros usuários por meio de ferramentas gerais de acessibilidade, como a cor da página da web, o tamanho da fonte, entre outros.*
+
+*O objetivo é disponibilizar um registro de faltas fácil e intuitivo, acompanhado de um gerador de relatórios que possua filtros e campos de busca para propiciar análises detalhadas do número de faltas agrupadas por data, ano de ensino, turma, professor, entre outros.*
+
+*Além disso, será essencial um sistema de notificações por e-mail para informar pais e/ou responsáveis.*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 ## Funcionais:
