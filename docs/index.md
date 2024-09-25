@@ -83,76 +83,58 @@ Requisitos não funcionais
 
 # Descrição dos Casos de Uso
 
-*&lt;Registrar Falta:
+## Registrar Falta:
 
-Ator: Professor
+Agente: Professor
 
-Descrição: O professor registra a falta de um determinado aluno em uma aula/dia em dois momentos diferentes.
+Descrição: O professor computa a falta de um aluno em uma aula/dia.
 
-Fluxo básico:
+**Fluxo:**
 
-    O professor acessa a funcionalidade "Registrar Falta".
+    O professor acessa o sistema.
     O sistema apresenta a lista de turmas e alunos.
     O professor seleciona a turma e o aluno que faltou.
     O professor registra a falta do aluno na data atual.
-    O sistema salva a informação de falta registrada.
+    O sistema registra a falta.
 
-Relatório de Faltas:
+## Gerar relatório de Faltas:
 
-Ator: Professor
+Agente: Professor
 
-Descrição: Gera um relatório com informações consolidadas sobre as faltas.
+Descrição: Gera um relatório com informações sobre as faltas.
 
-Fluxo básico:
+Fluxo:
 
     O usuário acessa a funcionalidade "Gerar Relatório de Faltas".
-    O sistema apresenta acessibilidade de busca (aluno, turma, data, disciplina, professor).
+    O sistema apresenta a funcionabilidade de busca (aluno, turma, data, disciplina, professor).
     O usuário seleciona os filtros desejados.
     O sistema gera o relatório de acordo com os filtros.
-    O usuário visualiza o relatório de faltas gerado.
-    O ususario visuzaliza a porcentagem de falta
+    O usuário tem acesso as informações do relatório.
 
-Notificação:
+## Envio de notificação:
 
-Ator:Pais/Responsaveis
+Agente: Responsáveis
 
-Descrição: Envia uma notificação por e-mail aos pais/responsáveis sobre a situação de faltas do aluno.
+Descrição: Envia uma notificação aos responsáveis sobre a situação de faltas do aluno.
 
-Fluxo básico:
+Fluxo:
 
     O sistema verifica diariamente o percentual de faltas de cada aluno.
-    Para alunos com percentual abaixo do limite definido, o sistema automaticamente aciona o caso de uso "Enviar Notificação".
+    Para alunos com percentual abaixo do limite definido, o sistema aciona o "Enviar Notificação".
     O sistema busca os dados de e-mail dos pais/responsáveis.
     O sistema envia a notificação por e-mail
 
-Acessibilidae:
+## Configurações:
 
-Ator: Sistema
+Agente: Administrador
 
-Descrição: Permite configurar as opções de acessibilidade e outras configurações do sistema.
+Descrição: Permite configurar o sistema.
 
-Fluxo básico:
+Fluxo:
 
-    O administrador acessa a tela de configurações do sistema.
-    O administrador altera as configurações de fonte, contraste, notificações, entre outras na WEB ou no mobile
+    O administrador acessa as configurações do sistema.
+    O administrador altera as configurações escolhidas.
     O sistema salva as configurações aplicadas.
-    O sistema permite modificar o registro de faltas
-
-Qualquer Site/WEB:
-
-Ator: Professor, Adm Sistema, Pais/Responsaveis
-
-Descrição: Permite configurar as opções de acessibilidade e outras configurações do sistema.
-
-Fluxo básico:
-
-    O administrador acessa a tela de configurações do sistema.
-    O administrador coloca todas as faltas no sistema.
-    No sistema é possivel visualizar as notificacoes por aplicativo ou pelo site
-    Professores e pais podem acessar o site pelo ID do aluno ou ID do professor
-    Pais e professores veem a quantidade de falta
-    Pais podem justificar a falta dos filhos com atestado
-&gt;*
 
 # Diagrama de Sequência
 
