@@ -83,6 +83,8 @@ Requisitos não funcionais
 
 # Descrição dos Casos de Uso
 
+![image](https://github.com/user-attachments/assets/8b67988b-3a25-4378-881b-49931c581a42)
+
 ## Registrar Falta:
 
 Agente: Professor
