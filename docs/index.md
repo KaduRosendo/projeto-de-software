@@ -140,7 +140,7 @@ Fluxo:
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![Diagrama sem nome](https://github.com/user-attachments/assets/4d1cc288-6534-4056-b40d-710408dbbc8a)
 
 # Diagrama de Classes
 
