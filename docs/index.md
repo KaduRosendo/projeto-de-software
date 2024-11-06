@@ -144,7 +144,7 @@ Fluxo:
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Diagrama sem nome](https://github.com/user-attachments/assets/31f37ca6-8279-4101-9121-2b337ae159e7)
 
 # Diagrama de Estados
 
