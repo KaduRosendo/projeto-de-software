@@ -148,7 +148,8 @@ Fluxo:
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![Diagrama sem nome drawio](https://github.com/user-attachments/assets/867ed4ad-6db9-43a8-9264-e3b4ee52d63d)
+
 
 # Diagrama de Implantação
 
