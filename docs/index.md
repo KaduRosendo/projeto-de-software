@@ -153,9 +153,8 @@ Fluxo:
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![Diagrama de implementação-Página-4](https://github.com/user-attachments/assets/1711ffa4-2434-43a1-bebf-e86ea72785fa)
 
 # Referências
 
 *&lt;Lista de referências&gt;*
-oi
